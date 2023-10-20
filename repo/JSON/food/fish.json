@@ -1,0 +1,25 @@
+[
+    {
+         "name" : "Fish Snack Wrap",
+         "type" : "ikan",
+         "price" : 17500.0
+    },
+
+    {
+         "name" : "Fish Burger",
+         "type" : "ikan",
+         "price" : 32000.0
+    },
+
+    {
+         "name" : "Honey Garlic Fice Rice",
+         "type" : "ikan",
+         "price" : 24500.0
+    },
+
+    {
+         "name" : "Rica-rica Fice Rice",
+         "type" : "ikan",
+         "price" : 24500.0
+    }
+ ]

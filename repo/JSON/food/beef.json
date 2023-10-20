@@ -1,0 +1,49 @@
+[
+    {
+        "name" : "Big Mac",
+        "type" : "Daging Sapi",
+        "price" : 41000.0
+    },
+
+    {
+        "name" : "Double Big Mac",
+        "type" : "Daging Sapi",
+        "price" : 66500.0
+    },
+
+    {
+        "name" : "Cheeseburger",
+        "type" : "Daging Sapi",
+        "price" : 32000.0
+    },
+
+    {
+        "name" : "Double Cheeseburger",
+        "type" : "Daging Sapi",
+        "price" : 39500.0
+    },
+
+    {
+        "name" : "Triple Cheeseburger",
+        "type" : "Daging Sapi",
+        "price" : 61500.0
+    },
+
+    {
+        "name" : "Cheeburger Deluxe",
+        "type" : "Daging Sapi",
+        "price" : 33500.0
+    },
+
+     {
+        "name" : "Beef Burger",
+        "type" : "Daging Sapi",
+        "price" : 19500.0
+    },
+
+    {
+        "name" : "Beef Burger Deluxe",
+        "type" : "Daging Sapi",
+        "price" : 25000.0
+    }
+]

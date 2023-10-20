@@ -1,0 +1,855 @@
+[
+    [
+        {
+            "name" : "Egg and Cheese Muffin",
+            "type" : "Sarapan",
+            "price" : 19000.0
+        },
+    
+        {
+            "name" : "Chicken Muffin",
+            "type" : "Sarapan",
+            "price" : 27500.0
+        },
+    
+        {
+            "name" : "Sausage McMuffin",
+            "type" : "Sarapan",
+            "price" : 29500.0
+        },
+    
+        {
+            "name" : "Egg McMuffin",
+            "type" : "Sarapan",
+            "price" : 28000.0
+        },
+    
+        {
+            "name" : "Chicken Muffin with Egg",
+            "type" : "Sarapan",
+            "price" : 32000.0
+        },
+    
+        {
+            "name" : "Sausage McMuffin with Egg",
+            "type" : "Sarapan",
+            "price" : 33000.0
+        },
+    
+        {
+            "name" : "Sausage Wrap",
+            "type" : "Sarapan",
+            "price" : 26500.0
+        },
+    
+        {
+            "name" : "Big Breakfast",
+            "type" : "Sarapan",
+            "price" : 39500.0
+        },
+    
+        {
+            "name" : "Breakfast Wrap",
+            "type" : "Sarapan",
+            "price" : 19000.0
+        },
+    
+        {
+            "name" : "Hotcakes 3 pcs",
+            "type" : "Sarapan",
+            "price" : 31500.0
+        },
+    
+        {
+            "name" : "Hotcakes 2 pcs",
+            "type" : "Sarapan",
+            "price" : 26500.0
+        },
+    
+        {
+            "name" : "Hashbrown",
+            "type" : "Sarapan",
+            "price" : 13500.0
+        },
+    
+        {
+            "name" : "Nasi Uduk Mcd",
+            "type" : "Sarapan",
+            "price" : 21500.0
+        },
+    
+        {
+            "name" : "Bubur Ayam McD",
+            "type" : "Sarapan",
+            "price" : 15000.0
+        }
+    ],
+
+    [
+        {
+            "name" : "Big Mac",
+            "type" : "Daging Sapi",
+            "price" : 41000.0
+        },
+    
+        {
+            "name" : "Double Big Mac",
+            "type" : "Daging Sapi",
+            "price" : 66500.0
+        },
+    
+        {
+            "name" : "Cheeseburger",
+            "type" : "Daging Sapi",
+            "price" : 32000.0
+        },
+    
+        {
+            "name" : "Double Cheeseburger",
+            "type" : "Daging Sapi",
+            "price" : 39500.0
+        },
+    
+        {
+            "name" : "Triple Cheeseburger",
+            "type" : "Daging Sapi",
+            "price" : 61500.0
+        },
+    
+        {
+            "name" : "Cheeburger Deluxe",
+            "type" : "Daging Sapi",
+            "price" : 33500.0
+        },
+    
+         {
+            "name" : "Beef Burger",
+            "type" : "Daging Sapi",
+            "price" : 19500.0
+        },
+    
+        {
+            "name" : "Beef Burger Deluxe",
+            "type" : "Daging Sapi",
+            "price" : 25000.0
+        }
+    ],
+
+    [
+       {
+            "name" : "McNuggets 20pcs", 
+            "type" : "Ayam",
+            "price" : 114000.0
+       },
+
+       {
+            "name" : "McNuggets 9pcs", 
+            "type" : "Ayam",
+            "price" : 53500.0 
+       },
+
+       {
+            "name" : "McNuggets 6pcs", 
+            "type" : "Ayam",
+            "price" : 38500.0
+       },
+
+       {
+            "name" : "McNuggets 4pcs", 
+            "type" : "Ayam",
+            "price" : 26000.0
+       },
+
+       {
+            "name" : "Spicy Chicken McNuggets 9pcs", 
+            "type" : "Ayam",
+            "price" : 60000.0
+       },
+
+       {
+            "name" : "Spicy Chicken McNuggets 6pcs", 
+            "type" : "Ayam",
+            "price" : 40500.0
+       },
+
+       {
+            "name" : "Korean Soy Garlic Wings - A la Carte 6pcs", 
+            "type" : "Ayam",
+            "price" : 39000.0
+       },
+
+       {
+            "name" : "Korean Soy Garlic Wings - A la Carte 4pcs", 
+            "type" : "Ayam",
+            "price" : 34500.0
+       },
+
+       {
+            "name" : "PaNas Korean Soy Garlic Wings", 
+            "type" : "Ayam",
+            "price" : 31500.0
+       },
+
+       {
+            "name" : "Ayam Krispy McDonald's", 
+            "type" : "Ayam",
+            "price" : 10000.0
+       },
+    
+       {
+            "name" : "Ayam Spicy McDonald's", 
+            "type" : "Ayam",
+            "price" : 12000.0
+       },
+
+       {
+            "name" : "PaNas 1", 
+            "type" : "Ayam",
+            "price" : 38500.0
+       },
+
+       {
+            "name" : "PaNas 2 with Fries", 
+            "type" : "Ayam",
+            "price" : 52500.0
+       },
+
+       {
+            "name" : "PaNas 2 with Rice", 
+            "type" : "Ayam",
+            "price" : 50000.0
+       },
+
+         {
+            "name" : "PaNas Spesial", 
+            "type" : "Ayam",
+            "price" : 46500.0
+       },
+
+       {
+            "name" : "PaMer 5", 
+            "type" : "Ayam",
+            "price" : 130000.0
+       },
+
+       {
+            "name" : "PaMer 7", 
+            "type" : "Ayam",
+            "price" : 183000.0
+       },
+
+       {
+            "name" : "Honey Garlic Chicken Rice McD", 
+            "type" : "Ayam",
+            "price" : 24500.0
+       },
+
+       {
+            "name" : "Rica-rica Chicken Rice McD", 
+            "type" : "Ayam",
+            "price" : 24500.0
+       },
+
+       {
+            "name" : "Chicken Burger", 
+            "type" : "Ayam",
+            "price" : 22500.0
+       },
+
+       {
+            "name" : "Chicken Burger Deluxe", 
+            "type" : "Ayam",
+            "price" : 25000.0
+       },
+
+       {
+            "name" : "McSpicy Chicken Burger", 
+            "type" : "Ayam",
+            "price" : 41000.0
+       },
+
+       {
+            "name" : "McChicken Burger", 
+            "type" : "Ayam",
+            "price" : 32000.0
+       },
+
+       {
+            "name" : "Chicken Snack Wrap", 
+            "type" : "Ayam",
+            "price" : 17500.0
+       },
+
+       {
+            "name" : "Spicy Chicken Bites", 
+            "type" : "Ayam",
+            "price" : 13000.0
+       },
+
+       {
+            "name" : "Chicken Fingers 5pcs", 
+            "type" : "Ayam",
+            "price" : 14500.0
+       }
+    ],
+
+    [
+       {
+            "name" : "Fish Snack Wrap",
+            "type" : "ikan",
+            "price" : 17500.0
+       },
+
+       {
+            "name" : "Fish Burger",
+            "type" : "ikan",
+            "price" : 32000.0
+       },
+
+       {
+            "name" : "Honey Garlic Fice Rice",
+            "type" : "ikan",
+            "price" : 24500.0
+       },
+
+       {
+            "name" : "Rica-rica Fice Rice",
+            "type" : "ikan",
+            "price" : 24500.0
+       }
+    ],
+
+    [
+       {
+            "name" : "Fruit Tea Lemon",
+            "type" : "minuman",
+            "price" : 9500.0
+       },
+
+       {
+            "name" : "Coca Cola",
+            "type" : "minuman",
+            "price" : 9500.0
+       },
+
+       {
+            "name" : "Sprite",
+            "type" : "minuman",
+            "price" : 9500.0
+       },
+
+       {
+            "name" : "Fanta",
+            "type" : "minuman",
+            "price" : 9500.0
+       },
+
+       {
+            "name" : "Iced Coffee Matcha",
+            "type" : "minuman",
+            "price" : 23000.0
+       },
+
+       {
+            "name" : "Coca-Cola McFloat",
+            "type" : "minuman",
+            "price" : 15000.0
+       },
+
+       {
+            "name" : "Iced Milo",
+            "type" : "minuman",
+            "price" : 13000.0
+       },
+
+       {
+            "name" : "Iced Lychee Tea",
+            "type" : "minuman",
+            "price" : 20000.0
+       },
+
+       {
+            "name" : "Fanta McFloat",
+            "type" : "minuman",
+            "price" : 15000.0
+       },
+
+       {
+            "name" : "Iced Coffee",
+            "type" : "minuman",
+            "price" : 19000.0
+       },
+
+       {
+            "name" : "Tehbotol Sosro Tawar (botol plastik) 350ml",
+            "type" : "minuman",
+            "price" : 9500.0
+       },
+
+       {
+            "name" : "Tehbotol Sosro Kotak 250ml",
+            "type" : "minuman",
+            "price" : 9500.0
+       },
+
+       {
+            "name" : "Fruit Tea Blackcurrent 200ml",
+            "type" : "minuman",
+            "price" : 9500.0
+       },
+
+       {
+            "name" : "Mineral Water Prima 600ml",
+            "type" : "minuman",
+            "price" : 11500.0
+       },
+
+       {
+            "name" : "Hot Coffee",
+            "type" : "minuman",
+            "price" : 12000.0
+      },
+
+      {
+            "name" : "Hot Tea",
+            "type" : "minuman",
+            "price" : 12000.0
+      }
+    ],
+
+    [
+      {
+            "name" : "Tiramisu McFlurry with Lotus Biscoff",
+            "type" : "makanan penutup",
+            "price" : 18000.0
+      },
+
+      {
+            "name" : "Tiramisu McFlurry with Cookie Crumbs",
+            "type" : "makanan penutup",
+            "price" : 18000.0
+      },
+
+      {
+            "name" : "Cokelat Strawberry Sundae",
+            "type" : "makanan penutup",
+            "price" : 13000.0
+      },
+
+      {
+            "name" : "Double Choco Sundae",
+            "type" : "makanan penutup",
+            "price" : 13000.0
+      },
+
+      {
+            "name" : "Matcha McFlurry With Oreo",
+            "type" : "makanan penutup",
+            "price" : 18000.0 
+      },
+
+      {
+            "name" : "McFlurry Es Kopyor Jelly",
+            "type" : "makanan penutup",
+            "price" : 17500.0
+      },
+
+      {
+            "name" : "McFlurry Es Kopyor Kelapa",
+            "type" : "makanan penutup",
+            "price" : 17500.0
+      },
+
+      {
+            "name" : "Double Choco Pie",
+            "type" : "makanan penutup",
+            "price" : 17000.0
+      },
+
+      {
+            "name" : "Double Choco Pie Ala Mode Cholocate",
+            "type" : "makanan penutup",
+            "price" : 23500.0
+      },
+
+      {
+            "name" : "Double Choco Pie Ala Mode Strawberry",
+            "type" : "makanan penutup",
+            "price" : 23500.0
+      },
+
+      {
+            "name" : "McFlurry feat. Oreo",
+            "type" : "makanan penutup",
+            "price" : 14000.0
+      },
+
+      {
+            "name" : "McFlurry Choco",
+            "type" : "makanan penutup",
+            "price" : 14000.0
+      },
+
+      {
+            "name" : "Strawberry Sundae",
+            "type" : "makanan penutup",
+            "price" : 12000.0
+      },
+
+      {
+            "name" : "Cholocate Sundae",
+            "type" : "makanan penutup",
+            "price" : 12000.0
+      }
+    ],
+
+    [
+       {
+            "name" : "Happy Meal McNuggets 4pcs",
+            "type" : "happy meal",
+            "price" : 45000.0
+       },
+
+       {
+            "name" : "Happy Meal Egg & Cheese Muffin",
+            "type" : "happy meal",
+            "price" : 45000.0
+       },
+
+       {
+            "name" : "Happy Meal Chicken Burger",
+            "type" : "happy meal",
+            "price" : 45000.0
+       },
+
+       {
+            "name" : "Happy Meal Ayam",
+            "type" : "happy meal",
+            "price" : 45000.0
+       },
+
+       {
+            "name" : "Happy Meal Beef Burger",
+            "type" : "happy meal",
+            "price" : 45000.0
+       }
+    ],
+
+    [
+       {
+            "name" : "Paket Keluarga Seru tanpa Mainan",
+            "type" : "paket keluarga",
+            "price" : 84000.0
+       },
+
+       {
+            "name" : "Paket Keluarga Seru Breakfast Happy Meal Egg & Cheese Muffin dan Mainan",
+            "type" : "paket keluarga",
+            "price" : 110000.0
+       },
+
+       {
+            "name" : "Paket keluarga Seru Mainan 1 Krispy",
+            "type" : "paket keluarga",
+            "price" : 110000.0
+       },
+
+       {
+            "name" : "Paket Keluarga Seru Mainan 2",
+            "type" : "paket keluarga",
+            "price" : 110000.0
+       },
+
+       {
+            "name" : "PaMer 5",
+            "type" : "paket keluarga",
+            "price" : 130000.0
+       },
+
+       {
+            "name" : "PaMer 7",
+            "type" : "paket keluarga",
+            "price" : 183000.0
+       },
+
+       {
+            "name" : "Paket Hantaran",
+            "type" : "paket keluarga",
+            "price" : 135000.0
+       }
+    ],
+
+    [
+      {
+         "name" : "Iced Himalayan Tea",
+         "type" : "mccafe",
+         "price" : 37000.0
+      },
+
+      {
+         "name" : "Himalayan Tea Frappe",
+         "type" : "mccafe",
+         "price" : 41500.0
+      },
+
+      {
+         "name" : "Iced Himalayan Latte",
+         "type" : "mccafe",
+         "price" : 39000.0
+      },
+
+      {
+         "name" : "Himalayan Latte Frappe",
+         "type" : "mccafe",
+         "price" : 43500.0
+      },
+
+      {
+         "name" : "Hot Matcha Latte",
+         "type" : "mccafe",
+         "price" : 29000.0
+      },
+
+      {
+         "name" : "Iced Matcha Latte",
+         "type" : "mccafe",
+         "price" : 35000.0
+      },
+
+      {
+         "name" : "Iced Cafe Matcha Fusion",
+         "type" : "mccafe",
+         "price" : 37000.0
+      },
+
+      {
+         "name" : "Matcha Frappe",
+         "type" : "mccafe",
+         "price" : 40000.0
+      },
+
+      {
+         "name" : "Hot Lemon Grass Tasseo Tea",
+         "type" : "mccafe",
+         "price" : 22500.0
+      },
+
+      {
+         "name" : "Hot Java Jasmine Tasseo Tea",
+         "type" : "mccafe",
+         "price" : 22500.0
+      },
+
+      {
+         "name" : "Hot Pure Green Tasseo Tea",
+         "type" : "mccafe",
+         "price" : 22500.0
+      },
+
+      {
+         "name" : "Hot Long Black Coffee",
+         "type" : "mccafe",
+         "price" : 25000.0
+      },
+
+      {
+         "name" : "Hot Flat White",
+         "type" : "mccafe",
+         "price" : 25000.0
+      },
+
+      {
+         "name" : "Iced Caffe Latte",
+         "type" : "mccafe",
+         "price" : 30000.0
+      },
+
+      {
+         "name" : "Hot Caffe Latte",
+         "type" : "mccafe",
+         "price" : 25000.0
+      },
+
+      {
+         "name" : "Hot Caramel Latte",
+         "type" : "mccafe",
+         "price" : 29000.0
+      },
+
+      {
+         "name" : "Hot Vanilla Latte",
+         "type" : "mccafe",
+         "price" : 29000.0
+      },
+
+      {
+         "name" : "Iced Cappucino",
+         "type" : "mccafe",
+         "price" : 30000.0
+      },
+
+      {
+         "name" : "Hot Cappucino",
+         "type" : "mccafe",
+         "price" : 25000.0
+      },
+
+      {
+         "name" : "Iced Chocolate",
+         "type" : "mccafe",
+         "price" : 32000.0
+      },
+
+      {
+         "name" : "Hot Chocolate",
+         "type" : "mccafe",
+         "price" : 27000.0
+      },
+
+      {
+         "name" : "Iced Caramel Latte",
+         "type" : "mccafe",
+         "price" : 35000.0
+      },
+
+      {
+         "name" : "Iced Vanilla Latte",
+         "type" : "mccafe",
+         "price" : 35000.0
+      },
+
+      {
+         "name" : "Iced Hazelnut Latte",
+         "type" : "mccafe",
+         "price" : 35000.0
+      },
+
+      {
+         "name" : "Hot Hazelnut Latte",
+         "type" : "mccafe",
+         "price" : 29000.0
+      },
+
+      {
+         "name" : "Iced Latte Frappe",
+         "type" : "mccafe",
+         "price" : 34000.0
+      },
+
+      {
+         "name" : "Mocha Frappe",
+         "type" : "mccafe",
+         "price" : 35000.0
+      },
+
+      {
+         "name" : "Iced Choco Frappe",
+         "type" : "mccafe",
+         "price" : 35000.0
+      },
+
+      {
+         "name" : "Iced Hazelnut Frappe",
+         "type" : "mccafe",
+         "price" : 35000.0
+      },
+
+      {
+         "name" : "Hot Hazelnut Frappe",
+         "type" : "mccafe",
+         "price" : 29000.0
+      },
+
+      {
+         "name" : "Mango Frappe",
+         "type" : "mccafe",
+         "price" : 30000.0
+      },
+
+      {
+         "name" : "Cheese Stick",
+         "type" : "mccafe",
+         "price" : 24500.0
+      },
+
+      {
+         "name" : "Butter Croissant",
+         "type" : "mccafe",
+         "price" : 24500.0
+      },
+
+      {
+         "name" : "Banana Muffin",
+         "type" : "mccafe",
+         "price" : 26000.0
+      },
+
+      {
+         "name" : "Choco Chip Muffin",
+         "type" : "mccafe",
+         "price" : 26000.0
+      },
+
+      {
+         "name" : "Cheese Croissant",
+         "type" : "mccafe",
+         "price" : 34000.0
+      },
+
+      {
+         "name" : "Tuna Puff Pastry",
+         "type" : "mccafe",
+         "price" : 34000.0
+      },
+
+      {
+         "name" : "Chicken Curry Puff",
+         "type" : "mccafe",
+         "price" : 34000.0
+      },
+
+      {
+         "name" : "Choco Lover",
+         "type" : "mccafe",
+         "price" : 36000.0
+      },
+
+      {
+         "name" : "Klepon Cake",
+         "type" : "mccafe",
+         "price" : 36000.0
+      },
+
+      {
+         "name" : "Lemon Cake",
+         "type" : "mccafe",
+         "price" : 36000.0
+      }
+    ],
+
+    [
+       {
+            "name" : "Creamy Garlic McFlavor Fries with Bread Crumb",
+            "type" : "camilan",
+            "price" : 28000.0
+       },
+
+       {
+            "name" : "McD Share Box with Mentai Sauce & Spicy BBQ Crunchy Star",
+            "type" : "camilan",
+            "price" : 45000.0
+       },
+
+       {
+            "name" : "French Fries",
+            "type" : "camilan",
+            "price" : 20500.0
+       },
+
+       {
+            "name" : "Sweet Corn",
+            "type" : "camilan",
+            "price" : 13000.0
+       }
+    ]
+]

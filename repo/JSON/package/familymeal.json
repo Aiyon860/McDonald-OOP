@@ -1,0 +1,43 @@
+[
+    {
+         "name" : "Paket Keluarga Seru tanpa Mainan",
+         "type" : "paket keluarga",
+         "price" : 84000.0
+    },
+
+    {
+         "name" : "Paket Keluarga Seru Breakfast Happy Meal Egg & Cheese Muffin dan Mainan",
+         "type" : "paket keluarga",
+         "price" : 110000.0
+    },
+
+    {
+         "name" : "Paket keluarga Seru Mainan 1 Krispy",
+         "type" : "paket keluarga",
+         "price" : 110000.0
+    },
+
+    {
+         "name" : "Paket Keluarga Seru Mainan 2",
+         "type" : "paket keluarga",
+         "price" : 110000.0
+    },
+
+    {
+         "name" : "PaMer 5",
+         "type" : "paket keluarga",
+         "price" : 130000.0
+    },
+
+    {
+         "name" : "PaMer 7",
+         "type" : "paket keluarga",
+         "price" : 183000.0
+    },
+
+    {
+         "name" : "Paket Hantaran",
+         "type" : "paket keluarga",
+         "price" : 135000.0
+    }
+ ]

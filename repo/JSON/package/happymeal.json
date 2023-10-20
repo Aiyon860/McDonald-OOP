@@ -1,0 +1,31 @@
+[
+    {
+         "name" : "Happy Meal McNuggets 4pcs",
+         "type" : "happy meal",
+         "price" : 45000.0
+    },
+
+    {
+         "name" : "Happy Meal Egg & Cheese Muffin",
+         "type" : "happy meal",
+         "price" : 45000.0
+    },
+
+    {
+         "name" : "Happy Meal Chicken Burger",
+         "type" : "happy meal",
+         "price" : 45000.0
+    },
+
+    {
+         "name" : "Happy Meal Ayam",
+         "type" : "happy meal",
+         "price" : 45000.0
+    },
+
+    {
+         "name" : "Happy Meal Beef Burger",
+         "type" : "happy meal",
+         "price" : 45000.0
+    }
+ ]

@@ -1,0 +1,85 @@
+[
+    {
+          "name" : "Tiramisu McFlurry with Lotus Biscoff",
+          "type" : "makanan penutup",
+          "price" : 18000.0
+    },
+
+    {
+          "name" : "Tiramisu McFlurry with Cookie Crumbs",
+          "type" : "makanan penutup",
+          "price" : 18000.0
+    },
+
+    {
+          "name" : "Cokelat Strawberry Sundae",
+          "type" : "makanan penutup",
+          "price" : 13000.0
+    },
+
+    {
+          "name" : "Double Choco Sundae",
+          "type" : "makanan penutup",
+          "price" : 13000.0
+    },
+
+    {
+          "name" : "Matcha McFlurry With Oreo",
+          "type" : "makanan penutup",
+          "price" : 18000.0 
+    },
+
+    {
+          "name" : "McFlurry Es Kopyor Jelly",
+          "type" : "makanan penutup",
+          "price" : 17500.0
+    },
+
+    {
+          "name" : "McFlurry Es Kopyor Kelapa",
+          "type" : "makanan penutup",
+          "price" : 17500.0
+    },
+
+    {
+          "name" : "Double Choco Pie",
+          "type" : "makanan penutup",
+          "price" : 17000.0
+    },
+
+    {
+          "name" : "Double Choco Pie Ala Mode Cholocate",
+          "type" : "makanan penutup",
+          "price" : 23500.0
+    },
+
+    {
+          "name" : "Double Choco Pie Ala Mode Strawberry",
+          "type" : "makanan penutup",
+          "price" : 23500.0
+    },
+
+    {
+          "name" : "McFlurry feat. Oreo",
+          "type" : "makanan penutup",
+          "price" : 14000.0
+    },
+
+    {
+          "name" : "McFlurry Choco",
+          "type" : "makanan penutup",
+          "price" : 14000.0
+    },
+
+    {
+          "name" : "Strawberry Sundae",
+          "type" : "makanan penutup",
+          "price" : 12000.0
+    },
+
+    {
+          "name" : "Cholocate Sundae",
+          "type" : "makanan penutup",
+          "price" : 12000.0
+    }
+  ]

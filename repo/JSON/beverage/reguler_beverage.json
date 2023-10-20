@@ -1,0 +1,97 @@
+[
+    {
+         "name" : "Fruit Tea Lemon",
+         "type" : "minuman",
+         "price" : 9500.0
+    },
+
+    {
+         "name" : "Coca Cola",
+         "type" : "minuman",
+         "price" : 9500.0
+    },
+
+    {
+         "name" : "Sprite",
+         "type" : "minuman",
+         "price" : 9500.0
+    },
+
+    {
+         "name" : "Fanta",
+         "type" : "minuman",
+         "price" : 9500.0
+    },
+
+    {
+         "name" : "Iced Coffee Matcha",
+         "type" : "minuman",
+         "price" : 23000.0
+    },
+
+    {
+         "name" : "Coca-Cola McFloat",
+         "type" : "minuman",
+         "price" : 15000.0
+    },
+
+    {
+         "name" : "Iced Milo",
+         "type" : "minuman",
+         "price" : 13000.0
+    },
+
+    {
+         "name" : "Iced Lychee Tea",
+         "type" : "minuman",
+         "price" : 20000.0
+    },
+
+    {
+         "name" : "Fanta McFloat",
+         "type" : "minuman",
+         "price" : 15000.0
+    },
+
+    {
+         "name" : "Iced Coffee",
+         "type" : "minuman",
+         "price" : 19000.0
+    },
+
+    {
+         "name" : "Tehbotol Sosro Tawar (botol plastik) 350ml",
+         "type" : "minuman",
+         "price" : 9500.0
+    },
+
+    {
+         "name" : "Tehbotol Sosro Kotak 250ml",
+         "type" : "minuman",
+         "price" : 9500.0
+    },
+
+    {
+         "name" : "Fruit Tea Blackcurrent 200ml",
+         "type" : "minuman",
+         "price" : 9500.0
+    },
+
+    {
+         "name" : "Mineral Water Prima 600ml",
+         "type" : "minuman",
+         "price" : 11500.0
+    },
+
+    {
+         "name" : "Hot Coffee",
+         "type" : "minuman",
+         "price" : 12000.0
+   },
+
+   {
+         "name" : "Hot Tea",
+         "type" : "minuman",
+         "price" : 12000.0
+   }
+ ]
