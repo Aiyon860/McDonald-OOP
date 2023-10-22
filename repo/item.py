@@ -22,50 +22,54 @@ class Item:
         # Actions to execute ()
         Item.all.append(self)
 
-        ### Getter and Setter 
-        @property
-        def name(self):
-            return self.__name
+    ### Getter and Setter 
+    @property
+    def name(self):
+        return self.__name
         
-        @name.setter
-        def name(self, value):
-            if value == '':
-                raise Exception("Cannot fill the name with null value!")
-            elif value == ' ':
-                raise Exception("Cannot fill the name with blank value!")
-            elif len(value) > 10:
-                raise Exception("The name is too long!")
-            else:
-                self.__name = value
-                print(f"Setting a value: '{self.__name}'")
+    @name.setter
+    def name(self, value):
+        if value == '':
+            raise Exception("Cannot fill the name with null value!")
+        elif value == ' ':
+            raise Exception("Cannot fill the name with blank value!")
+        elif len(value) > 10:
+            raise Exception("The name is too long!")
+        else:
+            self.__name = value
+            print("Setting a value: '{self.__name}'")
 
-        @property
-        def price(self):
-            return self.__price
-        
-        @price.setter
-        def price(self, value):
-            if value < 0:
-                raise Exception("The price cannot under 0 !")
-            else: 
-                self.__price = value
-                print("Getting a value: '{self.__price}'")
-
-        @property
-        def quantity(self):
-            return self.__quantity
-        
-        @quantity.setter
-        def quantity(self, value):
-            if value < 0:
-                raise Exception("The quantity cannot under 0 !")
-            else:
-                self.__quantity = value
-                print("Getting a value: '{self.__quantity}'")
-
-    """ def __receipt(self):
-
-    def get_receipt(self):
-        return __receipt() """
-
+    @property
+    def price(self):
+        return self.__price
     
+    @price.setter
+    def price(self, value):
+        if value < 0:
+            raise Exception("The price cannot under 0 !")
+        else: 
+            self.__price = value
+            print("Setting a value: '{self.__price}'")
+
+    @property
+    def quantity(self):
+        return self.__quantity
+    
+    @quantity.setter
+    def quantity(self, value):
+        if value < 0:
+            raise Exception("The quantity cannot under 0 !")
+        else:
+            self.__quantity = value
+            print("Setting a value: '{self.__quantity}'")
+
+    # Receipt Order
+    def __receipt():
+        print("")
+
+    @property
+    def get_receipt(self):
+        return self.__class__name.__receipt()
+    
+    def __repr__(self):
+        print(f"[Pesanan:\nTipe: {self.__class__.__name__}\nNama: {self.__name}\nHarga: {self.__price}\nJumlah: {self.__quantity}\nDibawa Pulang: {self.__isTakeaway}]")
